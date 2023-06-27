@@ -1,19 +1,13 @@
 👋 Hello, I'm Safal!
 
-🚀 Full Stack Developer | Nest.js | Express | TypeScript | JavaScript | Python | Flutter
+💼 Startup Enthusiast | Full Stack Developer | Tech Innovator
 
-💻 Passionate about building scalable and maintainable web applications using Nest.js and Express. Experienced in designing RESTful APIs, working with databases, and implementing authentication and authorization mechanisms.
+🚀 Passionate about startups, technology, and entrepreneurship. Experienced in building scalable web applications using Nest.js, Express, TypeScript, and JavaScript. Proficient in Python scripting and automation. Flutter enthusiast creating cross-platform mobile applications for Android and iOS.
 
-🌐 Proficient in TypeScript and JavaScript, with a strong understanding of modern web development frameworks and libraries.
+🌱 Dedicated to driving innovation and helping startups succeed. Skilled in agile methodologies, MVP development, and delivering value-driven solutions. Strong entrepreneurial mindset with a focus on problem-solving and creating impactful solutions.
 
-🐍 Love diving into Python for scripting, automation, and data manipulation tasks. Skilled in leveraging Python's versatility to solve various challenges.
+🌐 Constantly exploring new technologies, staying up-to-date with industry trends, and actively contributing to the startup ecosystem. Committed to continuous learning, open source collaboration, and mentoring aspiring entrepreneurs.
 
-📱 Flutter enthusiast, creating stunning cross-platform mobile applications for both Android and iOS platforms. Familiar with Flutter's widget-based UI development and reactive programming model.
+📫 Let's connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/safal-neupane-492715206/) to discuss exciting opportunities, startup collaborations, or tech-driven initiatives.
 
-🌟 Open source contributor and avid learner, always exploring new technologies and staying up-to-date with the latest trends in the industry.
-
-📚 Constantly honing my skills through continuous learning and actively sharing knowledge within the developer community.
-
-📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/safal-neupane-492715206/) or [Twitter](https://twitter.com/_safaley).
-
-⚡️ "Code is like poetry; most of it shouldn't have been written." - Anonymous
+⚡️ "The best way to predict the future is to create it." - Peter Drucker
